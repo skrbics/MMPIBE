@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 16 18:51:34 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0185-bbb5-3b58-00000391fb88 
+on database directory memory:/home/skrbics/IdeaProjects/MMPIBE/local with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/skrbics/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.1+10-21
+user.dir=/home/skrbics/IdeaProjects/MMPIBE
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-58-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
